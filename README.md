@@ -54,7 +54,7 @@ I'll be updating the repo as I go:
 - [x] Chapter 4
 - [x] Chapter 5
 - [x] Chapter 6
-- [ ] Chapter 7
+- [x] Chapter 7
 
 ---
 
